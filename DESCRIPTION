@@ -1,0 +1,11 @@
+Package: makeart
+Type: Package
+Title: Make random arts
+Version: 0.1.0
+Author: XC
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: ggplot2 must be installed before using this function.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2.9000
