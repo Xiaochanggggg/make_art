@@ -1,0 +1,13 @@
+---
+title: "mark_art"
+author: "XC"
+date: "1/27/2022"
+output: html_document
+---
+
+```{r, eval=FALSE}
+
+make_art()
+```
+
+Comments: ggplot2 need to be installed and loaded before using make_art. The argument taken is a random number, which makes the graph reproducible. This argument is optional. 
